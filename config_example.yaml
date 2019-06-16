@@ -5,15 +5,15 @@
 ###########################################################
 
 # The access token the bot will use to login to the Discord API
-token: Your Discord Bot Token
+token: 589678254961721344
 # Use this as prefix to command the bot
 prefix: ;
 # Enter here your own discord ID to authorize you as the
 # the admin of the bot
-admin: Your Discord Account ID
+admin: Aye It's Kirby
 # The emote which will be used under the giveaway message to 
 # participate to the giveaway
-emote: ✋
+emote: 🎉
 # Enter here all ROLE ID's who should be authorized 
 # to use the giveaway creation and closing command
 authorized: []
